@@ -1,13 +1,16 @@
-Content of Deep Learning course & its assignment that I learned during that time.
-It contains implementation of ANN, CNN, SOM, RNN, LSTM.
+### Deep Learning algorithm implementation:
+
 
 Projects included:
 
-Churn Prediction using ANN,
-Credit Card Fraud detection using SOM,
-Mnist HandWritten digit classification,
-Stock Prediction using LSTM
+1) Churn Prediction using <b> ANN </b>
 
-It also describe implementaion of tensorflow basics & also usage of Keras library
+2) Credit Card Fraud detection using <b> SOM </b>
+
+3) Mnist HandWritten digit classification
+
+4) Stock Prediction using <b> LSTM </b>
+
+It also describe implementaion of tensorflow basics along with Keras library.
 
 
