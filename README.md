@@ -11,6 +11,10 @@ Projects included:
 
 4) Stock Prediction using <b> LSTM </b>
 
+5) Rain Prediction
+
+6) feature transformation technique to reduce complexity of DL models.
+
 It also describe implementaion of tensorflow basics along with Keras library.
 
 
